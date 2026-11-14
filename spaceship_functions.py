@@ -58,6 +58,6 @@ def launch_ball_spaceship(artificial_gravity_acceleration, initial_velocity, ini
         angle += math.pi
     beta = 2 * angle
 
-    print(x, y)
+    #print(x, y)
         
     return d, max_h, t, alpha, beta
